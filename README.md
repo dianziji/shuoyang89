@@ -12,6 +12,7 @@ I bring systematic design thinking from both physical and digital worlds to buil
 I bring **three years of professional experience in the design industry**, working at a high-end design firm on forward-looking projects such as **smart cities, high-tech company headquarters, and future urban environments**. These projects engaged with concepts like **public realm design, autonomous transportation, robotic-embedded buildings, and data-driven planning**, which trained me to think systematically, collaborate across disciplines, and design with users and data at the center.  
 
 This background continues to shape how I approach **software engineering**.  
+
 To me, both architecture and engineering are about **designing systems**—one in the **physical world**, the other in the **abstract, digital world**. Both require **systematic thinking, structured problem-solving, and user-oriented design principles**. My experience creating physical spaces has strengthened the way I think about building abstract systems, and I now bring that mindset into my work as a **full-stack engineer**.  
 
 ---
@@ -23,15 +24,6 @@ To me, both architecture and engineering are about **designing systems**—one i
 - **Databases:** PostgreSQL, MySQL, MongoDB, SQLite, Supabase  
 - **DevOps & Tools:** Docker, Docker Compose, GitHub Actions, Vercel, Heroku, Postman  
 - **Patterns & Practices:** MVC, Composable Architecture, CI/CD pipelines, secure authentication (JWT, NextAuth, Google OAuth)  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuoyang89&show_icons=true&theme=tokyonight" alt="Shuo's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuoyang89&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
 
 ---
 
